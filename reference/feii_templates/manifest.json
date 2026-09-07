@@ -1,0 +1,10 @@
+{
+  "fe_uv.txt": {
+    "url": "https://raw.githubusercontent.com/legolason/PyQSOFit/master/src/pyqsofit/fe_uv.txt",
+    "note": "Downloaded by scripts/download_feii_templates.py"
+  },
+  "fe_optical.txt": {
+    "url": "https://raw.githubusercontent.com/legolason/PyQSOFit/master/src/pyqsofit/fe_optical.txt",
+    "note": "Downloaded by scripts/download_feii_templates.py"
+  }
+}

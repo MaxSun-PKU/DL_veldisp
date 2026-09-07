@@ -1,0 +1,11 @@
+astropy>=6.1,<7
+fsps==0.4.7
+h5py>=3.11,<4
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.2,<3
+Pillow>=10,<13
+requests>=2.31,<3
+scipy>=1.12,<2
+torch>=2.3,<3
+tqdm>=4.66,<5

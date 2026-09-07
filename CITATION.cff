@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper and this repository."
+title: "DL_veldisp: stellar velocity dispersions of quasar host galaxies"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Shengxiu
+    orcid: "https://orcid.org/0000-0002-1234-552X"
+  - family-names: Jiang
+    given-names: Linhua
+    orcid: "https://orcid.org/0000-0003-4176-6486"
+  - family-names: Bosman
+    given-names: Sarah E. I.
+    orcid: "https://orcid.org/0000-0001-8582-7012"
+  - family-names: Cheng
+    given-names: Yang
+    orcid: "https://orcid.org/0009-0005-5466-5977"
+repository-code: "https://github.com/MaxSun-PKU/DL_veldisp"
+version: 0.1.0
+date-released: 2026-09-07

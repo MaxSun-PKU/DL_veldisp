@@ -1,0 +1,22 @@
+name: dl-veldisp
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch=2.3
+  - numpy=2.2
+  - scipy=1.15
+  - pandas=2.3
+  - matplotlib=3.10
+  - h5py=3.16
+  - astropy=6.1
+  - requests=2.33
+  - tqdm=4.67
+  - pillow=12.2
+  - jupyterlab
+  - ipykernel
+  - pytest
+  - pip
+  - pip:
+      - fsps==0.4.7
